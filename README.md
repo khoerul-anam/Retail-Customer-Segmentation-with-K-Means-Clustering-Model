@@ -85,3 +85,6 @@ To run this project locally, you need to install the following Python dependenci
 -   🟡 `yellowbrick`: Machine learning visualization library that extends the `scikit-learn` API to assist in model selection and hyperparameter tuning.
 -   💾 `joblib`: Library for running Python functions as parallel jobs and for saving/loading Python objects (like models).
 
+## 📫 **How to reach me**:
+- **Email**: khoerulanam231@gmail.com
+- **LinkedIn**: [khoerul-anam](https://www.linkedin.com/in/khoerul-anam-a7b627221/)
